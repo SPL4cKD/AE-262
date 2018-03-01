@@ -1,2 +1,2 @@
-# AE-262
-MATLAB files
+# AE-262 (Advanced Aerodynamics | 2017)
+MATLAB files incl. project files
